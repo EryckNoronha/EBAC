@@ -1,5 +1,5 @@
 # **Exploração e análise de dados de Pontuação de Exames – Exam Scores**
-
+![GitHub](https://img.shields.io/github/license/EryckNoronha/EBAC)
 ## Os dados: 
 
 Os dados representam informações fictícias de um banco e contam com as seguintes colunas:
